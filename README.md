@@ -1,6 +1,6 @@
 ## 📫 How to Reach Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-yadav-477829184/)
-- 📧 [Email](rahulyadav392@gmail.com)  
+
  
 
 <!--
