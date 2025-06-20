@@ -1,4 +1,6 @@
-## Hi there 👋
+## 📫 How to Reach Me  
+- LinkedIn: [Your Name]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/rahul-yadav-477829184/))  
+- Email: rahulyadav392@gmail.com  
 
 <!--
 **rahulyadav392/rahulyadav392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
